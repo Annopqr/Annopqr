@@ -1,5 +1,25 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=Soft&text=An's_coding&color=d1e5e1)
+
+<a href="https://www.notion.so/2024-5eba038cb6a440cb94ca014475aee6f8" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+<a href="https://velog.io/@annopqr_13/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+<br>
+<br>
+<h2>My Stack</h2>
+<br>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-437291?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+
+
+
+
+
 <!--
 **Annopqr/Annopqr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
