@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<a href="https://velog.io/@annopqr_13/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+
 <br>
 <br>
 <h2>My Stack</h2>
