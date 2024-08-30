@@ -4,7 +4,6 @@
 </div>
 
 <div align="center">
-<a href="https://www.notion.so/2024-5eba038cb6a440cb94ca014475aee6f8?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 <a href="https://velog.io/@annopqr_13/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
 <br>
 <br>
