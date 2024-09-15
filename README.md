@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Soft&text=An's_coding&color=FFA500)
+  ![header](https://capsule-render.vercel.app/api?type=Soft&text=An's_coding&color=E56D29)
 </div>
 
 <div align="center">
