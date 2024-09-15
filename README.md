@@ -1,38 +1,24 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Soft&text=An's_coding&color=d1e5e1)
+  ![header](https://capsule-render.vercel.app/api?type=Soft&text=An's_coding&color=FFA500)
 </div>
 
 <div align="center">
 
 <br>
-<br>
-<h2>My Stack</h2>
-<br/>
-<div>
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
-</div>
 
 <br/>
 <div>
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-437291?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Maria_DB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>  
 </div>
 <br/>
 <div>
-  <img src="https://img.shields.io/badge/ECLIPSE_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</div>
+
 <br/>
 <div>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=science0813">
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Annopqr" height="165">
 </div>
 
 </div>
