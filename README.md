@@ -9,7 +9,12 @@
 
 <br/>
 <div>
-<img src="https://img.shields.io/badge/JAVA-437291?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JAVA-437291?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+  <a href="https://annnopqr13.tistory.com/">
+    <img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+  </a>
+    
 </div>
 <br/>
 <div>
